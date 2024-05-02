@@ -1,0 +1,1 @@
+and this has the link within the note which is cool as well [a new one](a%20new%20one.md)
